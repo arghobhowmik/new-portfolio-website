@@ -1,0 +1,108 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.orange{
+    color: orange;
+}
+#person{
+    width: 75%;
+    margin-left: 150px;
+}
+.paragraph{
+    margin-bottom: 30px;
+}
+#h4text{
+    font-size: 25px;
+    margin-top: 30px;
+}
+.border{
+    border-left: 5px solid red;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(yellow,red);
+    padding: 15px 45px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+}
+.mission-2022{
+    width: 40%;
+    padding-left: 60px;
+}
+.mission-2022 img{
+    width: 100%;
+}
+.flexiable{
+    display: flex;
+    width: 100%;
+}
+.flexiable img{
+    width: 50%;
+}
+.center-text{
+    text-align: center;
+}
+#box-1{
+  border: 1px solid silver;
+  margin: 20px;
+  padding: 30px;
+  background-color: silver;
+  border-radius: 20px;
+  margin-left: 150px;
+  width: 25%;
+}
+#box-2{
+    border: 1px solid rgb(241, 241, 180);
+    margin: 20px;
+    padding: 30px;
+    background-color: rgb(241, 241, 180);
+    border-radius: 20px;
+    width: 25%;
+}
+#box-3{
+    border: 1px solid rgb(143, 189, 235);
+    margin: 20px;
+    padding: 30px;
+    background-color: rgb(143, 189, 235);
+    border-radius: 20px;
+    margin-right: 150px;
+    width: 25%;
+}
+#codeing{
+    margin-left: 200px;
+}
+#development{
+    margin-right: 200px;
+}
+#section-3{
+margin-top: 30px;
+margin-bottom: 40px;
+background-image: url(images/shapes/shape-1.png);
+background-repeat: no-repeat;
+background-size: 250px;
+background-position: left;
+background-position-x: 100px;
+}
+#section-4{
+    margin-left: 200px;
+    margin-top: 70px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 250px;
+    background-position-x: 1000px;
+}
+#global-community{
+    margin-right: 120px;
+}

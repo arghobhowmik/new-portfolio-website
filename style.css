@@ -15,7 +15,7 @@ p{
     color: orange;
 }
 #person{
-    width: 75%;
+    width: 80%;
     margin-left: 150px;
 }
 .paragraph{
@@ -39,6 +39,7 @@ p{
 .mission-2022{
     width: 40%;
     padding-left: 60px;
+    margin-left: 50px;
 }
 .mission-2022 img{
     width: 100%;
@@ -105,4 +106,25 @@ background-position-x: 100px;
 }
 #global-community{
     margin-right: 120px;
+}
+#portfolio{
+    margin-left: 150px;
+}
+#p-port{
+    margin-right: 40px;
+}
+#footer{
+    border: 25px solid rgb(22, 20, 20);
+    margin: 60px 25px 20px 30px;
+    background-color: rgb(22, 20, 20);
+}
+.footer-work{
+    text-align: center;
+    color: white;
+}
+#tomato-color{
+    color: tomato;
+}
+#mission-22{
+    font-size: 30px;
 }
